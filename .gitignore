@@ -1,0 +1,8 @@
+
+*.tfvars
+
+certbot/venv
+
+*.lock.hcl
+
+*.zip
